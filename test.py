@@ -1,4 +1,1 @@
-serious_api_key = "0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlsdada"
-print(serious_api_key)
-
-api_key = "0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlsdada"
+api_key = "ghp_uoSqJoghYR6Jh5eUbdm1Yzsdafweaeasfg210IEMY2d1ZP4"

@@ -5,5 +5,6 @@ API_KEY = ""
 
 
 def test():
-    print(API_KEY)
+    #print(API_KEY)
+    #if test
     requests.get("https://www.google.com")

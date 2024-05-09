@@ -1,7 +1,7 @@
 import requests
 
 API_KEY = ""
-test()
+#test()
 
 
 def test():
